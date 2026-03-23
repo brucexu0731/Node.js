@@ -1,13 +1,13 @@
 {
   "name": "from-the-other-side",
   "version": "1.0.0",
-  "description": "A platform for sharing ghostly encounters",
+  "description": "Full Stack Node App --> Ghost story blog",
   "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Tom Chant",
+  "author": "Bruce Xu",
   "license": "ISC",
   "dependencies": {
     "sanitize-html": "^2.16.0"
